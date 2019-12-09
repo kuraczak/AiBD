@@ -1,0 +1,8 @@
+Dzienne dane pogodowe z Global Historical Climatology Network dla jednej stacji pogodowej (MX17004) 
+
+Posiada zmienne w poszczególnych kolumnach (id, rok, miesiąc), 
+rozłożone na kolumny (dzień, d1  d31) i w poprzek rzędy (tmin, tmax, prcp) (temperatura minimalna i maksymalna, wilgotność ). 
+
+zmienne rozdzielone stałymi odstępami, losowe znaki ("I" oraz "S" losowo pojawiają się miedzy wartościami
+
+Pobrano z gita: 14.10.2019
